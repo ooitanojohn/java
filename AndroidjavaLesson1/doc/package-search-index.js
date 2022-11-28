@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"local.hal.sa31.androidjava.lesson.ex2"},{"l":"すべてのパッケージ","u":"allpackages-index.html"}];updateSearchResults();

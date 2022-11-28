@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"local.hal.sa31.androidjava.lesson.ex2","l":"CalcCircleAndBall"}];updateSearchResults();
